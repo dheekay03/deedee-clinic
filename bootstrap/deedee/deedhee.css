@@ -1,0 +1,92 @@
+.nav-link{
+    /* font-size: 30px; */
+    color: cornsilk !important;
+    font-size: medium;
+}
+
+
+.landing{
+    width: auto;
+    height: 800px;
+    /* background-color: aqua; */
+    display: flex;
+    
+}
+
+.box1{
+    width: 50%;
+    height: 800px;
+    background-color: blue;
+}
+
+.box2{
+    width: 50%;
+    height: 800px;
+    /* background-color: blanchedalmond; */
+   
+}
+h1{
+    justify-content: center;
+}
+
+
+
+.car img{
+    height: 500px;
+}
+.cards img{
+    margin-top: 200px;
+    margin-left: 60px;
+    height: 200px;
+    width: 280px;
+}
+
+.cards h5{
+    margin-top: 5px;
+    margin-left: 75px; 
+}
+
+.cards p{
+    margin-top: 5px;
+    margin-left: 75px;
+}
+
+
+
+
+
+
+a{
+    margin-top: 5px;
+    margin-left: 75px;
+}
+
+
+
+footer{
+    height: 100px;
+    width: auto;
+    background-color: #04009a;
+}
+
+
+.box{
+    width: 400px;
+    height: 300px;
+  
+}
+
+.carousel-caption{
+    margin: 30% auto;
+    background-color: rgba(0, 0, 0, .4);
+}
+
+
+/* img{
+    margin: 0px 140px;
+} */
+
+
+
+
+
